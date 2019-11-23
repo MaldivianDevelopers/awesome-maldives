@@ -49,6 +49,9 @@ Feel free to add in if you have a nice Projects :)
 * [NumberToThaana](https://github.com/Sofwath/NumberToThaana) - Convert Numbers(int) to Thaana Words.
 * [Pythonthaanatoletin](https://github.com/Sofwath/pythonthaanatoletin) - A small tool to convert from thaana to letin.
 * [User bot](https://github.com/athphane/userbot) - Telegram Userbot built with Pyrogram.
+* [ISS bot](https://github.com/Dharisd/iss_bot) - Telegram bot to find when international space station passes over a location.
+* [PhysicsEngine](https://github.com/Dharisd/PhysicsEngine) - A simple simulation written in python.this uses matplotlib to render and numpy to handle arrays.
+* [PrayerTimesAlerts]https://github.com/Dharisd/prayerTimesAlert) - This is a simple quick script created to provide windows 10 toast notifications when prayer times are reached.
 
 
 
@@ -76,6 +79,7 @@ Feel free to add in if you have a nice Projects :)
 * [Havaadhuleebisornot](https://github.com/Sofwath/havaadhuleebisornot) - Just a fun twitter bot to classify if havaadhulee bis or not.
 * [Whichakuru](https://github.com/Sofwath/whichakuru) - Simple MNIST style character/thaana akuru recognition using tensorflow
 * [ThaanaOCR](https://github.com/Sofwath/thaanaOCR) - Customized version of Keras image_ocr and ockre generalised to handle Thaana/Dhivehi Script.
+* [Dhivehi-ner](https://github.com/Dharisd/dhivehi-ner) - Attempt at implementing Name entity recogniton for dhivehi
 
 
 
