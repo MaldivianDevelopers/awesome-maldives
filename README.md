@@ -51,7 +51,7 @@ Feel free to add in if you have a nice Projects :)
 * [User bot](https://github.com/athphane/userbot) - Telegram Userbot built with Pyrogram.
 * [ISS bot](https://github.com/Dharisd/iss_bot) - Telegram bot to find when international space station passes over a location.
 * [PhysicsEngine](https://github.com/Dharisd/PhysicsEngine) - A simple simulation written in python.this uses matplotlib to render and numpy to handle arrays.
-* [PrayerTimesAlerts]https://github.com/Dharisd/prayerTimesAlert) - This is a simple quick script created to provide windows 10 toast notifications when prayer times are reached.
+* [PrayerTimesAlerts](https://github.com/Dharisd/prayerTimesAlert) - This is a simple quick script created to provide windows 10 toast notifications when prayer times are reached.
 
 
 
