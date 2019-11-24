@@ -1,3 +1,5 @@
+░A░w░e░s░o░m░e░ ░M░a░l░d░i░v░e░s░
+
 # OpenSource Software Projects made in Maldives
 
 A curated list of amazingly awesome libraries, resources and shiny things made by maldivian developers.
