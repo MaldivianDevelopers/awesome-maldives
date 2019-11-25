@@ -33,8 +33,9 @@ Feel free to add in if you have a nice Projects :)
 * [MoosunMv](https://github.com/jinas123/MoosunMv) - Simple Interface to interact with Maldives Meteorology.
 * [Saturn Parser](https://github.com/jinas123/saturn) - Saturn Parser is a composer package that extracts the bits that humans care about from any URL you give it.
 * [slim installer](https://github.com/jinas123/slim-installer) - Command line slim installation tool to install slim php framework easily.
-* [Thaanadate](https://github.com/ajaaibu/thaanadate) - Laravel port for ThaanaDate by @jawish.
 * [Thaana Transliterator](https://github.com/naxeem/thaana-transliterator) - Converts thaana text to Latin transliterations.
+* [Thaanadate](https://github.com/ajaaibu/thaanadate) - Laravel port for ThaanaDate by @jawish.
+* [Thaana Transliterator](https://github.com/jinas123/thaana-transliterator) - Composer package for thaana text to Latin transliterator by [@naxeem](https://github.com/naxeem)
 
 
 
