@@ -29,7 +29,6 @@ Feel free to add in if you have a nice Projects :)
 * [Bing wallpaper](https://github.com/jawish/bingwallpaper) - Fetches latest wallpaper images from Bing and use it to prettify your apps. Includes an adapter for Silex.
 * [FIS](https://github.com/jawish/fis) - Gets latest information on inbound and outbound flights for (VRMM) Velana International Airport - Maldives
 * [Flightradar24](https://github.com/jawish/flightradar24) - PHP library for interacting with the FlightRadar24 API
-* [sfdDownloader](https://github.com/jinas123/sfdDownloader) - Simple class to download files passed as a url.
 * [MoosunMv](https://github.com/jinas123/MoosunMv) - Simple Interface to interact with Maldives Meteorology.
 * [Saturn Parser](https://github.com/jinas123/saturn) - Saturn Parser is a composer package that extracts the bits that humans care about from any URL you give it.
 * [slim installer](https://github.com/jinas123/slim-installer) - Command line slim installation tool to install slim php framework easily.
