@@ -34,7 +34,6 @@ Feel free to add in if you have a nice Projects :)
 * [slim installer](https://github.com/jinas123/slim-installer) - Command line slim installation tool to install slim php framework easily.
 * [Thaana Transliterator](https://github.com/naxeem/thaana-transliterator) - Converts thaana text to Latin transliterations.
 * [Thaanadate](https://github.com/ajaaibu/thaanadate) - Laravel port for ThaanaDate by @jawish.
-* [Thaana Transliterator](https://github.com/jinas123/thaana-transliterator) - Composer package for thaana text to Latin transliterator by [@naxeem](https://github.com/naxeem)
 
 
 
