@@ -33,7 +33,9 @@ Feel free to add in if you have a nice Projects :)
 * [Saturn Parser](https://github.com/jinas123/saturn) - Saturn Parser is a composer package that extracts the bits that humans care about from any URL you give it.
 * [slim installer](https://github.com/jinas123/slim-installer) - Command line slim installation tool to install slim php framework easily.
 * [Thaana Transliterator](https://github.com/naxeem/thaana-transliterator) - Converts thaana text to Latin transliterations.
-* [Thaanadate](https://github.com/ajaaibu/thaanadate) - Laravel port for ThaanaDate by @jawish.
+* [Thaanadate](https://github.com/ajaaibu/thaanadate) - Laravel port for ThaanaDate by @jawish.\
+* [Thaana lorem](https://github.com/baraveli/thaana-lorem) - Thaana Lorem ipsum generator written in php
+* [Rss-scraper](https://github.com/baraveli/rss-scraper) - Rss Scraper to scrap rss feed from news websites.
 
 
 
