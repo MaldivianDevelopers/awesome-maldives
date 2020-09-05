@@ -36,6 +36,7 @@ Feel free to add in if you have a nice Projects :)
 * [Thaanadate](https://github.com/ajaaibu/thaanadate) - Laravel port for ThaanaDate by @jawish.
 * [Thaana lorem](https://github.com/baraveli/thaana-lorem) - Thaana Lorem ipsum generator written in php
 * [Rss-scraper](https://github.com/baraveli/rss-scraper) - Rss Scraper to scrap rss feed from news websites.
+* [WooCommerce BML mPOS Integration](https://github.com/ashhama/woocommerce-bml-mpos-integration) - Wordpress plugin to integrate BML mPOS gateway with WooCommerce payments.
 
 
 
