@@ -71,7 +71,7 @@ Feel free to add in if you have a nice Projects :)
 * [thaana-keyboard @ajaaibu](https://github.com/ajaaibu/thaanaKeyboard) - jQuery Plugin to manipulate thaana keyboard.
 * [OffenderCrawler](https://github.com/ajaaibu/OffenderCrawler) - Crawler to fetch data from offender website to application.
 * [Khutuba-Crawler](https://github.com/ajaaibu/Khutuba-Crawler) - Khutuba crawler for Khutuba app.
-
+* [Mv-Directory](https://github.com/wisam87/mv-directory) - Package to fetch / filter Atolls, Islands and Banks of Maldives.
 
 
 ### MACHINE LEARNING Projects
