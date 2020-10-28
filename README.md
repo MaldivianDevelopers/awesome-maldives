@@ -85,6 +85,7 @@ Feel free to add in if you have a nice Projects :)
 * [Whichakuru](https://github.com/Sofwath/whichakuru) - Simple MNIST style character/thaana akuru recognition using tensorflow
 * [ThaanaOCR](https://github.com/Sofwath/thaanaOCR) - Customized version of Keras image_ocr and ockre generalised to handle Thaana/Dhivehi Script.
 * [Dhivehi-ner](https://github.com/Dharisd/dhivehi-ner) - Attempt at implementing Name entity recogniton for dhivehi
+* [Thaana OCR Laravel](https://github.com/mohamed-aiman/thaanaocr) - A Laravel package that can be used for OCR of Thaana (Maldives/Dhivehi Language) images using Google Cloud Vision API.
 
 
 
